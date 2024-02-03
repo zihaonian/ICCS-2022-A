@@ -55,7 +55,7 @@ ICCS/
 │   ├── 竞赛赛题.pdf
 │   └── 举办“2021年安徽省机器人大赛-单片机与嵌入式系统竞赛”的通知.pdf
 │
-└── README.md                    # 本文档，提供有关问题描述、论文摘要以及文件结构等信息
+└── README.md                    # 本文档，提供有关功能汇总、电路原理图以及文件结构等信息
 ```
 
 ## 功能汇总
@@ -91,8 +91,25 @@ ICCS/
 12. **自动切换工作状态：**
     - 根据红外遥控器的命令，自动切换油烟机的工作状态，包括开关、挡位调整等。  
 
+## 电路原理图
+
+<div align=center><img  src ="https://github.com/zihaonian/ICCS-2022-A/blob/main/res/SCH.jpg"/></div>
+
 ## 程序流程图
 
 ### ADC转换 定时器 PWM控制
 
-<div align=center><img  src ="https://github.com/zihaonian/Ti_Cup_NUEDC-2022-10-B/blob/main/res/Diagram of the test results of reversing and warehousing without vehicles in adjacent warehouses.jpg"/></div>
+<div align=center><img  src ="https://github.com/zihaonian/ICCS-2022-A/blob/main/res/AD_and_it_pwm_timer.jpg"/></div>
+
+### RTC实时时钟
+
+<div align=center><img  src ="https://github.com/zihaonian/ICCS-2022-A/blob/main/res/DS1302.jpg"/></div>
+
+### LCD12864 矩阵键盘
+
+<div align=center><img  src ="https://github.com/zihaonian/ICCS-2022-A/blob/main/res/LCD12864_Matrix_keyboard.jpg"/></div>
+
+### 温湿度传感器
+
+<div align=center><img  src ="https://github.com/zihaonian/ICCS-2022-A/blob/main/res/RTC_DS18B20.jpg"/></div>
+
