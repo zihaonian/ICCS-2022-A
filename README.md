@@ -26,31 +26,31 @@ ICCS/
 │   └── user
 │
 ├── driver_51/                  # 存放各个模块51驱动程序
-│   ├── AD_conversion					# AD转换驱动程序
-│   ├── DCmotor							# 直流电机驱动程序
-│   ├── delay							# 延时函数
-│   ├── DHT11							# DHT11模块驱动
-│   ├── Digital_tubes					# 八段数码管模块驱动
-│   ├── External_interrupt				# 外部中断程序
-│   ├── Infrared_remote_control			# 红外遥控器驱动程序
-│   ├── Lamps_and_independent_buttons	# led	
-│   ├── LCD12864						# LCD12864驱动程序
-│   ├── Matrix_keyboard					# 矩阵键盘驱动程序
-│   ├── RF_module						# 射频模块驱动程序
-│   ├── RTC								# 实时时钟模块驱动程序
-│   ├── Stepper_motors					# 步进电机驱动程序
-│   ├── timer							# 定时器模块
-│   ├── ultrasonic						# 超声波模块驱动程序
-│   └── Weight_sensor					# 重量传感器驱动程序
+│   ├── AD_conversion                   # AD转换驱动程序
+│   ├── DCmotor                         # 直流电机驱动程序
+│   ├── delay                           # 延时函数
+│   ├── DHT11                           # DHT11模块驱动
+│   ├── Digital_tubes                   # 八段数码管模块驱动
+│   ├── External_interrupt              # 外部中断程序
+│   ├── Infrared_remote_control         # 红外遥控器驱动程序
+│   ├── Lamps_and_independent_buttons   # led	
+│   ├── LCD12864                        # LCD12864驱动程序
+│   ├── Matrix_keyboard                 # 矩阵键盘驱动程序
+│   ├── RF_module                       # 射频模块驱动程序
+│   ├── RTC                             # 实时时钟模块驱动程序
+│   ├── Stepper_motors                  # 步进电机驱动程序
+│   ├── timer                           # 定时器模块
+│   ├── ultrasonic                      # 超声波模块驱动程序
+│   └── Weight_sensor                   # 重量传感器驱动程序
 │
-├── res/						# 存放程序流程图
+├── res/                         # 存放程序流程图
 │   ├── DS1302.jpg
 │   ├── SCH.jpg
 │   ├── LCD12864_Matrix_keyboard.jpg
 │   ├── RTC_DS18B20.jpg
 │   └── AD_and_it_pwm_timer.jpg
 │
-├── 竞赛赛题/						# 包含竞赛赛题与模块清单
+├── 竞赛赛题/                     # 包含竞赛赛题与模块清单
 │   ├── 2021年安徽省机器人大赛-单片机与嵌入式系统赛道模块清单.pdf
 │   ├── 竞赛赛题.pdf
 │   └── 举办“2021年安徽省机器人大赛-单片机与嵌入式系统竞赛”的通知.pdf
